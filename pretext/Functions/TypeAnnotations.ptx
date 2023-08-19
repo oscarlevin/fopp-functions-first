@@ -69,9 +69,9 @@ def display_msg(msg: str):
     <p>Although type annotations are ignored by the Python interpreter, there are tools such as
                 <url href="http://mypy-lang.org/" visual="http://mypy-lang.org/">mypy</url> that can analyze code containing type annotations and flag potential problems.</p>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question4_7_1">
     <statement>
       <p>What happens when the following is executed?</p>

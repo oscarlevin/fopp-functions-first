@@ -40,9 +40,9 @@ print("".join(wds))
   </program>
   <p>The list that you glue together (<c>wds</c> in this example) is not modified.  Also,
             you can use empty glue or multi-character strings as glue.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="ac8_9_4">
     <statement>
       <p>Create a new list of the 6th through 13th elements of <c>lst</c> (eight items in all) and assign it to the variable <c>output</c>.</p>

@@ -58,9 +58,7 @@ print(prices[-1])
 print(prices[3-5])
         </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question8_3_1">
       <statement>
         <p>What is printed by the following statements?</p>

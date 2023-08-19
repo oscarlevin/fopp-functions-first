@@ -20,9 +20,9 @@ print(ac)
             new characters to the end. Also note that I have given it a different name this time, <c>ac</c> instead of
             <c>accum</c>. There's nothing magical about these names. You could use any valid variable and it would work the
             same (try substituting x for ac everywhere in the above code).</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question9_11_1">
     <statement>
       <p>What is printed by the following statements:</p>

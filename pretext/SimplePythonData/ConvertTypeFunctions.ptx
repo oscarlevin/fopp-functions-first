@@ -43,9 +43,9 @@ print(type(str(123.45)))
   </program>
   <p>One common operation where you might need to do a type conversion is when you are concatenating several strings together but want to include a numeric value as part of the final string. Because we can't concatenate a string with an integer or floating point number, we will often have to convert numbers to strings before concatenating them.</p>
   <image source="SimplePythonData/Figures/type_cast.gif" width="50%" alt="a variable stores the value 55. a print statement tries to print &quot;the value is&quot; concatenated with the integer, but a runtime error occurs. Solution is to convert the integer into a string so that it can be concatenated."/>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_6_1">
     <statement>
       <p>What value is printed when the following statement executes?</p>

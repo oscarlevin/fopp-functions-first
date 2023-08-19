@@ -217,9 +217,7 @@ mylist = mylist.sort()   #probably an error
 print(mylist)
         </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question9_7_1">
       <statement>
         <p>What is printed by the following statements?</p>

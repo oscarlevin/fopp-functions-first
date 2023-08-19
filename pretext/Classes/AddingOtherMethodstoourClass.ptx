@@ -67,9 +67,9 @@ print(p.distanceFromOrigin())
   <p>Notice that the call of <c>distanceFromOrigin</c> does not <em>explicitly</em>
             supply an argument to match the <c>self</c> parameter.  This is true of all method calls. The definition will always seem to
             have one additional parameter as compared to the invocation.</p>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <p>
     <ol marker="1">
       <li>

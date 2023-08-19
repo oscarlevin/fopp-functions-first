@@ -102,9 +102,9 @@ print(sumTo(4))
             also makes a while loop harder to read and understand than the equivalent for loop. So, while you <em>can</em> implement
             definite iteration with a while loop, it's not a good idea to do that. Use a for loop whenever it will be known at
             the beginning of the iteration process how many times the block of code needs to be executed.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <!-- <exercise label="question14_2_1">
     <statement>
       <p>True or False: You can rewrite any for-loop as a while-loop.</p>

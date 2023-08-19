@@ -74,9 +74,7 @@ print(seasons.index("autumn"))  #Error!
     <p>In the activecode window above, we're trying to see where <q>autumn</q> is in the list seasons. However,
                 there is no string called autumn (though there is string called <q>fall</q> which is likely what the program
                 is looking for). Remember that an error occurs if the argument is not in the string or list.</p>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question8_8_1">
       <statement>
         <p>What will be stored in the variable ty below?</p>

@@ -72,9 +72,7 @@ print(best_num)
     </program>
     <p>The only thing we changed was the value of <c>best_num</c> on line 2 so that the value of <c>best_num</c> is the
                 first element in <c>nums</c>, but the result is still the same!</p>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question7_10_1">
       <statement>
         <p>What is printed by the following statements?</p>

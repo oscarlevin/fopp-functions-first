@@ -110,9 +110,9 @@ print(count)
             because we're incrementing the value of count when we iterate each time through the loop. Though in
             this scenario we could have used the <c>len</c> function, there are other cases later on where len
             won't be useful but we will still need to count.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question7_5_5">
     <statement>
       <p>Consider the following code:</p>

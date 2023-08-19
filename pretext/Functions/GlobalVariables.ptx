@@ -121,9 +121,7 @@ print(z)
 
   </note>
   
-  <p>
-    <alert>Check your understanding</alert>
-  </p>
+  <!-- <p><term>Check Your Understanding</term</p> -->
   <exercise label="question4_9_1">
     <statement>
       <p>What is a variable's scope?</p>

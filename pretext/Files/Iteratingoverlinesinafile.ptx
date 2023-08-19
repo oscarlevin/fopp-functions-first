@@ -45,9 +45,9 @@ olympicsfile.close()
         </input>
   </program>
 
-  <p>
-    <term>Check your Understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
 
   <exercise label="ac11_4_3">
       <p>
@@ -75,7 +75,7 @@ myTests().main()
     </program>
   </exercise>
 
-<datafile label="olympics.txt" filename="olympics.txt">
+<datafile label="olympics_txt" filename="olympics.txt">
 <pre>
 Name,Sex,Age,Team,Event,Medal
 A Dijiang,M,24,China,Basketball,NA
@@ -104,7 +104,7 @@ Win Valdemar Aaltonen,M,54,Finland,Art Competitions,NA
 </pre>
 </datafile>
 
-<datafile label="emotion_words.txt" filename="emotion_words.txt">
+<datafile label="emotion_words_txt_2" filename="emotion_words.txt">
 <pre>
 Sad upset blue down melancholy somber bitter troubled
 Angry mad enraged irate irritable wrathful outraged infuriated

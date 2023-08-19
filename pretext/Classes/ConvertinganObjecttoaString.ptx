@@ -80,9 +80,9 @@
     change. When a programmer changes the meaning of a method we say that we <term>override</term>
     the method. Note also that the <c>str</c> type converter function uses whatever <c>__str__</c>
     method we provide.</p>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <p>
     <ol marker="1">
       <li>

@@ -49,9 +49,9 @@
     for displaying an object when you print it. For example, list contents are enclosed in square
     brackets <c>[ ]</c>. You will also encounter some more complicated objects that do not have very
     nice printed representations: printing those won't be very useful.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_2_1">
     <statement>
       <p>What appears in the output window when the following statement executes?</p>
