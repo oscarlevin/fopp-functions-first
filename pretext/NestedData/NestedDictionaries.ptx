@@ -6,9 +6,9 @@
             lists or dictionaries can also contain lists and dictionaries. There can be many layers of nesting.</p>
   <p>Only the values in dictionaries can be objects of arbitrary type. The keys in dictionaries must be one of the immutable
             data types (numbers, strings, tuples).</p>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="question10_2_1">
     <statement>
       <p>Which of the following is a legal assignment statement, after the following code executes?</p>

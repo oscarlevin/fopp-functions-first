@@ -46,9 +46,9 @@ print(mylen([1, 2, 7]))
       </block>
     </blocks>
   </exercise>
-  <p>
-    <term>Check your Understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="ac11_5_2">
     <statement>
       <p><term>1.</term> Write a function named <c>total</c> that takes a list of integers as input, and returns the total value of all those integers added together.</p>

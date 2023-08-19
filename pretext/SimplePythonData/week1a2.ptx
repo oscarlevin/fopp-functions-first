@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <section xml:id="simple-python-data_chapter-assessment">
   <title>Chapter Assessment</title>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="assess_ps_01_01">
     <statement>
       <p>There is a function we are providing in for you in this problem called <c>square</c>. It

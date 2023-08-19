@@ -58,9 +58,9 @@ x &lt;= y               # x is less than or equal to y
   <p>Note too that an equality test is symmetric, but assignment is not. For example,
             if <c>a == 7</c> then <c>7 == a</c>. But in Python, the statement <c>a = 7</c>
             is legal and <c>7 = a</c> is not. (Can you explain why?)</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question5_2_1">
     <statement>
       <p>Which of the following is a Boolean expression? Select all that apply.</p>

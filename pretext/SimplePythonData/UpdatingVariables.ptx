@@ -79,9 +79,9 @@
     that that value to <c>s</c> so that the variable is updated after each line in the code.</p>
   <p>This will be tedious when we have many things to add together. Later you'll read about an
     easier way to do this kind of task.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_14_1">
     <statement>
       <p>What is printed when the following statements execute?</p>

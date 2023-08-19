@@ -108,9 +108,7 @@ excited_phrase_complete = phrase_complete[:-1] + "!"
 julia[0] = 'X'  # TypeError: 'tuple' object does not support item assignment
 </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question9_2_1">
       <statement>
         <p>What is printed by the following statements?</p>

@@ -191,9 +191,9 @@ value of a provided number. Or how <c>= input()</c> returns anything a user type
       </li>
     </ol>
   </p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question4_5_1">
     <statement>
       <p>What is wrong with the following function definition:</p>

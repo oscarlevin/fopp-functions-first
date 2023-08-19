@@ -54,9 +54,9 @@ print(z)
       Each call of the function creates new local variables, and their lifetimes expire when the function returns to the caller's scope.</note></p>
 
       <p><em>Try stepping through the code again. Look for, understand and fix any other runtime errors</em>.</p>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="question4_8_1">
     <statement>
       <p>True or False: Local variables can be referenced outside of the function they were defined in.</p>

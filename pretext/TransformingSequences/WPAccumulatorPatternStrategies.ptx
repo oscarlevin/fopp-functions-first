@@ -91,9 +91,7 @@
                 intended to do and what your code is actually doing.</p>
     <p>For the accumulator variable, one thing that can help is to make the variable name end with <q>so_far</q>. The prefix can be something that helps remind you of what you're supposed to end up with. For example: <title_reference>count_so_far</title_reference>, <title_reference>total_so_far</title_reference>, or <title_reference>cubes_so_far</title_reference>.</p>
     <p>Note that the iterator variable should be a singular noun. It should describe what one item in the original sequence, not what one item in the final result will be. For example, when accumulating the cubes of the numbers from 1-25, don't write <title_reference>for cube in range(25):</title_reference>. Instead, write <title_reference>for num in range(25):</title_reference>.  If you name the iterator variable <title_reference>cube</title_reference> you run the risk of getting confused that it has already been cubed, when that's an operation that you still have to write in your code.</p>
-    <p>
-      <term>Check Your Understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question9_12_1">
       <statement>
         <p>Does the following prompt require an accumulation pattern? If so, what words indicate that? For each string in <c>wrds</c>, add &#x2018;ed' to the end of the word (to make the word past tense). Save these past tense words to a list called <c>past_wrds</c>.</p>

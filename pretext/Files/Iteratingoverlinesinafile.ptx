@@ -45,9 +45,9 @@ olympicsfile.close()
         </input>
   </program>
 
-  <p>
-    <term>Check your Understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
 
   <exercise label="ac11_4_3">
       <p>

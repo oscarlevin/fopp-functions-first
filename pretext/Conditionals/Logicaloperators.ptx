@@ -56,9 +56,7 @@
       both sides. The correct way to write this is <c>number == 5 or number == 6</c>. Remember that
       both operands of <c>or</c> must be booleans in order to yield proper results.</p>
   </note>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question5_3_1">
       <statement>
         <p>What is the correct Python expression for checking to see if a number stored in a

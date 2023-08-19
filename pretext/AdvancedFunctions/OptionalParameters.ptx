@@ -89,9 +89,9 @@ print(f(5, ["Hello"]))
   </program>
   <p>When the default value is used, the same list is shared. But on lines 8 and 9 two different copies of the list
             [<q>Hello</q>] are provided, so the 4 that is appended is not present in the list that is printed on line 9.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question15_1_1">
     <statement>
       <p>What will the following code print?</p>

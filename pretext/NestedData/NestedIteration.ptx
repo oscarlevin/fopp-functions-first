@@ -23,9 +23,9 @@ for x in nested1:
         print("    level2: " + y)
     </input>
   </program>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="pp10_4_1" indentation="show" language="python">
     <statement>
       <p>Now try rearranging these code fragments to make a function that counts all the <em>leaf</em> items in a nested list like nested1 above, the items at the lowest level of nesting (8 of them in nested1).</p>

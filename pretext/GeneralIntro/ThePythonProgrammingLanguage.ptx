@@ -52,9 +52,9 @@
   <p>Online servers: <url href= "https://pythontutor.com/" visual="pythontutor.com">Python Tutor</url>, 
   <url href="https://colab.research.google.com/" visual="Colab">Google Colaboratory</url></p>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question1_3_1">
     <statement>
       <p>Source code is another name for:</p>

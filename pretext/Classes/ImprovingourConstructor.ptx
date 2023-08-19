@@ -24,9 +24,9 @@ p = Point(7,6)
     <p>Later on, you will see classes where the <c>__init__</c> method does more than just save parameters as instance variables. For example, it might parse the contents of those variables and do some computation on them, storing the results in instance variables. It might even make an Internet connection, download some content, and store that in instance variables.</p>
   </blockquote>
   <image source="Classes/Figures/objectpic5.png" width="50%" alt="Simple object has state and methods"/>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <p>
     <ol marker="1">
       <li>

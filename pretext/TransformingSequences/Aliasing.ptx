@@ -34,9 +34,9 @@ print(a)
             with mutable objects. Of course, for immutable objects, there's no problem.
             That's why Python is free to alias strings and integers when it sees an opportunity to
             economize.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question9_5_1">
     <statement>
       <p>What is the value of y after the following code has been evaluated:</p>

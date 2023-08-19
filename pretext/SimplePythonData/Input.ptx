@@ -49,7 +49,7 @@ print("Hrs=", hours, "mins=", minutes, "secs=", secs_finally_remaining)
     </program>
         <p>The variable <c>str_seconds</c> will refer to the string that is entered by the user. As we said above, even though this string may be <c>7684</c>, it is still a string and not a number.  To convert it to an integer, we use the <c>int</c> function.
             The result is referred to by <c>total_secs</c>.  Now, each time you run the program, you can enter a new value for the number of seconds to be converted.</p>
-        <p><term>Check your understanding</term></p>
+        <!-- <p><term>Check your understanding</term></p> -->
 
     <exercise label="question2_16_1">
         <statement>

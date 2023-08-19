@@ -98,9 +98,7 @@ wn.exitonclick()
                 sequentially: the import, 2 assignments, the <em>whole</em> for-loop, and <c>wn.exitonclick()</c>. The
                 for-loop compound statement is executed completely before going on to the next sequential
                 statement, <c>wn.exitonclick()</c>.</p>
-    <p>
-      <term>Check your Understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question6_5_1">
       <statement>
         <p>How many times will the for loop iterate in the following statements?</p>

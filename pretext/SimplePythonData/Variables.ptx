@@ -104,9 +104,9 @@ print(type(pi))
   <note>
     <p>If you have programmed in another language such as Java or C++, you may be used to the idea that <em>variables</em> have types that are declared when the variable name is first introduced in a program. Python doesn't do that. Variables don't have types in Python; <em>values</em> do. That means that it is acceptable in Python to have a variable name refer to an integer and later have the same variable name refer to a string. This is almost never a good idea, because it will confuse human readers (including you), but the Python interpreter will not complain.</p>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_7_1">
     <statement>
       <p>What is printed when the following statements execute?</p>

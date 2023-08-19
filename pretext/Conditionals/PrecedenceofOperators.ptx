@@ -123,9 +123,9 @@
 </input>
     </program>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question5_5_1">
     <statement>
       <p>Which of the following properly expresses the  precedence of operators (using parentheses) in the following expression: 5*3 &gt; 10 and 4+6==11</p>

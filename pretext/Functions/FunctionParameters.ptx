@@ -106,9 +106,7 @@
     What happens when you run the code? It should produce a <term>runtime error</term> - an error that happens
     when the code is <em>syntactically correct</em> and runs, but encounters an issue during execution; in this case, it
     can't deal with the variables being of a different than expected data type.</em></p>
-  <p>
-    <alert>Check your understanding</alert>
-  </p>
+  <!-- <p><term>Check Your Understanding</term</p> -->
   <exercise label="question4_4_1">
     <statement>
       <p>Which of the following is a valid function header (first line of a function definition)?</p>

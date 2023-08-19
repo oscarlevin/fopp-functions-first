@@ -147,9 +147,9 @@ class = "Computer Science 101"</pre>
   </table>
   <p>You might want to keep this list handy. If the interpreter complains about one
     of your variable names and you don't know why, see if it is on this list.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_8_1">
     <statement>
       <p>True or False: the following is a legal variable name in Python: A_good_grade_is_A+</p>
