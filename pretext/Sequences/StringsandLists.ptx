@@ -68,9 +68,7 @@ x = (5)
 print(type(x))
         </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question8_2_1">
       <statement>
         <p>A list can only contain integer items.</p>

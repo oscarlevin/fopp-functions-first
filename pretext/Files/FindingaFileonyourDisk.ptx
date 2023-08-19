@@ -15,9 +15,9 @@
                 path names as suggested above. To get you started, we have faked it by providing a few files that you can read
                 <em>as if</em> they were on your hard disk. In this chapter, we simulate the existence of one textfile; you can't open any other files from your local computer from textbook code running in your browser.</p>
   </note>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="question11_5_1">
     <statement>
       <p>Say you are in a directory called Project. In it, you have a file with your Python code. You would like to read in data from a file called <q>YearlyProjections.csv</q> which is in a folder called CompanyData, which is inside of Project. What is the best way to open the file in your Python program?</p>

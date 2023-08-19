@@ -41,9 +41,9 @@ else:
   </note>
   <p>If you are still a bit unsure, use Codelens to step through the example above and see how the correct <c>print</c> is chosen.</p>
   
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question5_8_1">
     <statement>
       <p>Will the following code cause an error?</p>

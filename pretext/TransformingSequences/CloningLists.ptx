@@ -23,9 +23,9 @@ print(b)
   </program>
   <p>Now we are free to make changes to <c>b</c> without worrying about <c>a</c>.  Again, we can clearly see in
             codelens that <c>a</c> and <c>b</c> are entirely different list objects.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question9_6_1">
     <statement>
       <p>What is printed by the following statements?</p>

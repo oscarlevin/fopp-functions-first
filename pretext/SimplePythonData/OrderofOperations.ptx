@@ -54,9 +54,9 @@
             otherwise not. You will have to get used to making the same inference when you see
             parentheses: is this a function call, or just specifying precedence? </p>
     </note>
-      <p>
-    <term>Check your understanding</term>
-  </p>
+      <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_11_1">
     <statement>
       <p>What is the value of the follwing expression?</p>

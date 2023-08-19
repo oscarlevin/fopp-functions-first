@@ -45,9 +45,7 @@ print("All finished!")
     </ol>
   </p>
   <p>One aspect of syntax you have to watch out for in Python involves indentation. Indentation (the amount of whitespace at the beginning of a line of code) has special meaning in Python. This will be discussed in subsequent chapters, but to see an example of an indentation-related syntax problem, modify the program above by inserting a couple of spaces at the beginning of one of the lines.</p>
-  <p>
-    <alert>Check your understanding</alert>
-  </p>
+  <!-- <p><term>Check Your Understanding</term</p> -->
   <exercise label="question3_3_1">
     <statement>
       <p>Which of the following is a syntax error?</p>

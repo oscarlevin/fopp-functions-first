@@ -42,9 +42,7 @@
     subtasks are simple enough to be performed with sequences of these basic
     instructions.</p>
 
-     <p>
-      <term>Check your understanding</term>
-    </p>
+     <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question1_5_1">
       <statement>
         <p>A program is:</p>
@@ -137,9 +135,7 @@
         print(grocery_list)
       </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <p><term>Check Your Understanding</term</p>
     <exercise label="question1_5_1">
       <statement>
         <p>A program is:</p>

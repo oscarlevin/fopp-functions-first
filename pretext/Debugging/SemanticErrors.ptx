@@ -63,9 +63,7 @@ Expected Output: 5</pre>
                 financial transactions or medical equipment, the results can be harmful or even deadly. For this reason, creating test
                 cases is an important part of the work that programmers perform in order to help them produce programs that work
                 correctly.</p>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question3_5_1">
       <statement>
         <p>Which of the following is a semantic error?</p>

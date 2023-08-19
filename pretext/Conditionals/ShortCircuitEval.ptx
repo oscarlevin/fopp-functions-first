@@ -81,9 +81,9 @@ if answer == 'Y' or answer == 'y':
 
   <!-- 
     THESE EXERCISES REMOVED FOR NOW SINCE THEY USE SEQUENCES
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
 
   <exercise label="question5_3_2">
       <statement>

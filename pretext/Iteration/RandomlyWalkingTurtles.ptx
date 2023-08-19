@@ -162,9 +162,8 @@ wn.exitonclick()
             if you ever need to write a similar program, you can reuse this function with confidence the
             next time you need it. Breaking up this program into a couple of parts is another example of
             functional decomposition.</p>
-  <p xml:id="more-about-iteration_index-0">
-    <term>Check your understanding</term>
-  </p>
+  <paragraphs xml:id="more-about-iteration_index-0">
+    <title>Check your understanding</title>
   <exercise label="question14_4_1">
     <statement>
       <p>In the random walk program in this section, what does the isInScreen function do?</p>
@@ -204,4 +203,6 @@ wn.exitonclick()
       </choice>
     </choices>
   </exercise>
+</paragraphs>
+
 </section>

@@ -88,9 +88,9 @@
     <p>A common error that novice programmers make is not realizing that all these ways of reading the file contents,
                 <term>use up the file</term>. After you call readlines(), if you call it again you'll get an empty list.</p>
   </note>
-  <p>
-    <term>Check your Understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="ac11_3_1">
       <p>
         <ol marker="1">

@@ -54,9 +54,7 @@ print(a,b)
                     chose to use the tokens <c>=</c> for assignment, and <c>==</c> for equality.  This is a popular
                     choice also found in languages like C, C++, Java, and C#.</p>
     </note>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question2_13_1">
       <statement>
         <p>After the following statements, what are the values of x and y?</p>

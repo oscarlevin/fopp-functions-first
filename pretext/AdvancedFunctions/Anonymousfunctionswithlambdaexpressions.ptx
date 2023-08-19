@@ -58,9 +58,9 @@ last_char = (lambda s: s[-1])
   <p>Note that neither function is actually invoked. Look at the parallels between the two structures. The parameters are
             defined in both functions with the variable <c>s</c>. In the typical function, we have to use the keyword <c>return</c> to send
             back the value. In a lambda function, that is not necessary - whatever is placed after the colon is what will be returned.</p>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="question15_3_1">
     <statement>
       <p>If the input to this lambda function is a number, what is returned?</p>

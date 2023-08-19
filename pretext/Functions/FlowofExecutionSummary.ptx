@@ -28,9 +28,9 @@
     flow of execution</alert>. This means that you will read the def statements as you are scanning from top
     to bottom, but you
     should skip the body of the function until you reach a point where that function is called.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question4_11_1">
     <statement>
       <p>Consider the following Python code.</p>

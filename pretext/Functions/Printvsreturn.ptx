@@ -94,9 +94,9 @@
   <p>You will know you've really internalized the idea of functions when you are no longer confused
     about the difference
     between print and return. Keep working at it until it makes sense to you!</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question4_12_1">
     <statement>
       <p>What will the following code output?</p>

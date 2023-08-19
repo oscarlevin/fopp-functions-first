@@ -36,9 +36,9 @@ print('--------')
 print(pretty(d))
         </input>
   </program>
-  <p>
+  <!-- <p>
     <term>Check Your Understanding</term>
-  </p>
+  </p> -->
   <exercise label="question10_3_1">
     <statement>
       <p>Because we can only write strings into a file, if we wanted to convert a dictionary <title_reference>d</title_reference> into a json-formatted string so that we could store it in a file, what would we use?</p>

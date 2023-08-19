@@ -132,9 +132,7 @@ functionally decomposed.</em></p>
 
 
 
-  <p>
-    <alert>Check your Understanding</alert>
-  </p>
+  <!-- <p><term>Check Your Understanding</term</p> -->
   <exercise label="ac4_10_1">
     <statement>
       <p><term>1.</term> Write two functions, one called <c>addit</c> and one called <c>mult</c>. <c>

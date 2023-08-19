@@ -86,9 +86,9 @@ print(3.4, "hello", 45)
   <note>
     <p>The examples in this online text describe how print works in Python 3. If you install Python 2.7 on your machine, it will work slightly differently. One difference is that print is not called as a function, so there are no parentheses around the values to be printed.</p>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_5_1">
     <statement>
       <p>How can you determine the type of a variable?</p>

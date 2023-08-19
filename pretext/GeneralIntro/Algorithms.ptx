@@ -87,9 +87,9 @@ print("The hypotenuse of that triangle is:", hypotenuse)
             with designing an algorithm. The programmer often expresses the algorithm in
             pseudocode to better understand the sub-steps, then converts the algorithm to a program for the computer to execute.
             In the next section, you will learn how to execute Python programs on a computer.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question1_2_1">
     <statement>
       <p>An algorithm is:</p>

@@ -39,9 +39,9 @@ zeros = [0] * 4
                 <c>['first'] + ["second"]</c>. This process will look different for other types though. Remember that there
                 are functions to convert types!</p>
   </note>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question8_7_1">
     <statement>
       <p>What is printed by the following statements?</p>

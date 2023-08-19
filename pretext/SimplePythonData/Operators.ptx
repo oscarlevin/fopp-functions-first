@@ -56,9 +56,9 @@ print(7 % 3)     # This is the remainder or modulus operator
             Also, you can extract the right-most digit or digits from a number.  For
             example, <c>x % 10</c> yields the right-most digit of <c>x</c> (in base 10).
             Similarly <c>x % 100</c> yields the last two digits.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question2_3_1">
     <statement>
       <p>What value is printed when the following statement executes?</p>

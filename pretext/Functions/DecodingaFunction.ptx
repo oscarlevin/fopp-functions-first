@@ -99,9 +99,9 @@
       </li> -->
     </ul>
   </p>
-  <p>
-    <term>Check your understanding: decode this function definition</term>
-  </p>
+
+  <paragraphs>
+  <title>Check your understanding: decode this function definition</title>
   <exercise label="question4_6_1">
     <statement>
       <p>How many parameters does function cyu3 take?</p>
@@ -333,4 +333,5 @@
       </choice>
     </choices>
   </exercise>
+  </paragraphs>
 </section>

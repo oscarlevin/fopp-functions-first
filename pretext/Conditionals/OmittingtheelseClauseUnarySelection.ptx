@@ -18,9 +18,9 @@ print("This is always printed")
         </input>
   </program>
   <p>What would be printed if the value of <c>x</c> is negative?  Try it.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question5_7_1">
     <statement>
       <p>What does the following code print?</p>

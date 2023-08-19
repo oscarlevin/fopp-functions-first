@@ -146,9 +146,7 @@ print(L[0])
 print(L[0](3))
     </input>
     </program>
-    <p>
-      <term>Check Your Understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="ac10_1_5">
       <statement>
         <p><term>1.</term> Below, we have provided a list of lists. Use indexing to assign the element &#x2018;horse' to the variable name <c>idx1</c>.</p>

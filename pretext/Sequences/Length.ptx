@@ -60,9 +60,9 @@ print(len(alist[0]))
         </input>
   </program>
   <p>Note that <c>alist[0]</c> is the string <c>"hello"</c>, which has length 5.</p>
-  <p>
-    <term>Check your understanding</term>
-  </p>
+  <!-- <p>
+    <term>Check Your Understanding</term>
+  </p> -->
   <exercise label="question8_5_1">
     <statement>
       <p>What is printed by the following statements?</p>

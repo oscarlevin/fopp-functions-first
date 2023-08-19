@@ -261,9 +261,7 @@ p.setBlue(p.getGreen())
 print(p.getGreen(), p.getBlue())
         </input>
     </program>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question14_7_1">
       <statement>
         <p>If you have a pixel whose RGB value is (50, 0, 0), what color will this pixel appear to be?</p>
@@ -418,9 +416,7 @@ print(p.getRed(), p.getGreen(), p.getBlue())
     </program>
     <p>When you run the program you can see that the image has a width of 400 pixels and a height of 244 pixels.  Also, the
                 pixel at column 45, row 55, has RGB values of 165, 161, and 158.  Try a few other pixel locations by changing the <c>getPixel</c> arguments and rerunning the program.</p>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question14_7_2">
       <statement>
         <p>Using the previous ActiveCode example, select the answer that is closest to the RGB values of the pixel at row 100, column 30?  The values may be off by one or two due to differences in browsers.</p>
@@ -576,9 +572,7 @@ win.exitonclick()
       <p>You can also do some complex arithmetic and create interesting effects, such as
                     <url href="http://en.wikipedia.org/wiki/Sepia_tone#Sepia_toning" visual="http://en.wikipedia.org/wiki/Sepia_tone#Sepia_toning">Sepia Tone</url></p>
     </note>
-    <p>
-      <term>Check your understanding</term>
-    </p>
+    <!-- <p><term>Check Your Understanding</term</p> -->
     <exercise label="question14_7_3">
       <statement>
         <p>What will the following nested for-loop print? (Note, if you are having trouble with this question, review CodeLens 3).</p>
