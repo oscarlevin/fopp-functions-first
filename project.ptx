@@ -10,7 +10,7 @@
       <format>html</format>
       <source>pretext/main.ptx</source>
       <publication>publication/runestone.xml</publication>
-      <output-dir>published/foppff</output-dir>
+      <output-dir>published/foppcs</output-dir>
     </target>
     <!-- To build this target, run `pretext build web` -->
     <target name="web">
@@ -30,16 +30,6 @@
       <source>pretext/main.ptx</source>
       <publication>publication/dev.xml</publication>
       <output-dir>output/print-latex</output-dir>
-    </target>
-    <target name="subset">
-      <!-- Usage: to build starting at XMLID, -->
-      <!-- pretext build subset -x XMLID      -->
-      <!-- or use <xml-root>XMLID</xml-root>  -->
-      <format>html</format>
-      <source>pretext/main.ptx</source>
-      <publication>publication/dev.xml</publication>
-      <output-dir>output/subset</output-dir>
-      <stringparam key="debug.skip-knowls" value="yes"/>
     </target>
   </targets>
   <executables>

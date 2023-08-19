@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
-    <chunking level="1" />
     <titlepage>
+        <author>
+            <personname>Oscar Levin, Editor</personname>
+            <department>Mathematical Sciences</department>
+            <institution>University of Northern Colorado</institution>
+        </author>
+    <credit>
+        <title>Functions First edition authors</title>
         <author>
             <personname>Matthew Hrehirchuk</personname>
             <department>Department of Mathematics and Computing</department>
@@ -25,7 +31,7 @@
             <department>Department of Mathematics and Computing</department>
             <institution>Mount Royal University</institution>
         </author>
-
+    </credit>
         <credit>
             <title>Original Foundations of Python Programming</title>
             <author>

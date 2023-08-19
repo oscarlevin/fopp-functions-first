@@ -2,9 +2,9 @@
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
     <xi:include href="./bookinfo.ptx"/>
 
-    <book xml:id="fopp-ff" permid="tcs">
+    <book xml:id="fopp-cs" permid="tcs">
         <title>Foundations of Python Programming</title>
-        <subtitle>Functions First</subtitle>
+        <subtitle>for Computer Science</subtitle>
         <xi:include href="./FrontBackMatter/front_toc.ptx" />
 
         <xi:include href="./GeneralIntro/toctree.ptx" />

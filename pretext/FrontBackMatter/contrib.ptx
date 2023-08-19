@@ -1,11 +1,17 @@
 <?xml version="1.0"?>
 <acknowledgement xml:id="front-back-matter_contributor-list">
   <title>Acknowledgements</title>
-  <p>To paraphrase the philosophy of the Free Software Foundation, this book is free
-            like free speech, but not necessarily free like free pizza. It came about
-            because of a collaboration that would not have been possible without the GNU
-            Free Documentation License. So we would like to thank the Free Software
-            Foundation for developing this license and, of course, making it available to
+  <p>
+    This is a new development variant of the Foundations of Python Programming book, which has a long history of open source development through many contributors and different authors.  I hope to soon catalog all of them here, but for now, see the following acknowledgments from the most recent variant of the book.
+  </p>
+  <paragraphs>
+    <title>Acknowledgments from the Functions First edition</title>
+    
+    <p>To paraphrase the philosophy of the Free Software Foundation, this book is free
+      like free speech, but not necessarily free like free pizza. It came about
+      because of a collaboration that would not have been possible without the GNU
+      Free Documentation License. So we would like to thank the Free Software
+      Foundation for developing this license and, of course, making it available to
             us.</p>
   <p>We would also like to thank the more than 100 sharp-eyed and thoughtful readers
             who have sent us suggestions and corrections over the past few years. In the
@@ -16,13 +22,14 @@
             personal satisfaction of making a book you found useful better for you and
             everyone else who uses it. New additions to the list for the 2nd edition will
             be those who have made on-going contributions.</p>
-  <p>If you have a chance to look through the list, you should realize that each
-            person here has spared you and all subsequent readers from the confusion of a
-            technical error or a less-than-transparent explanation, just by sending us a
-            note.</p>
-  <p>Impossible as it may seem after so many corrections, there may still be errors
-            in this book. If you should stumble across one, we hope you will take a minute to report the problem on our <url href="https://github.com/MRU-COMP1701-dev/fopp-pretext/issues" >issue tracker.</url></p>
-  <paragraphs xml:id="font-back-matter_ff-edition">
+            <p>If you have a chance to look through the list, you should realize that each
+              person here has spared you and all subsequent readers from the confusion of a
+              technical error or a less-than-transparent explanation, just by sending us a
+              note.</p>
+              <p>Impossible as it may seem after so many corrections, there may still be errors
+                in this book. If you should stumble across one, we hope you will take a minute to report the problem on our <url href="https://github.com/MRU-COMP1701-dev/fopp-pretext/issues" >issue tracker.</url></p>
+    </paragraphs>
+    <paragraphs xml:id="font-back-matter_ff-edition">
     <title>Functions First Edition</title>
     <p>
       <ul>
