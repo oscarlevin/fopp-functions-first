@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <section xml:id="general-intro_introduction-the-way-of-the-program">
   <title>The Way of the Program</title>
+  <introduction>
   <p>The goal of this book is to teach you to understand and create computer programs in Python.
             At the beginning of each chapter, we will outline for you the learning goals and objectives
             that should be accomplished once you have gone through the chapter.</p>
@@ -17,6 +18,7 @@
             creatively about solutions, and to express a solution clearly and accurately. As
             it turns out, the process of learning to program is an excellent opportunity to
             practice your problem solving skills.</p>
+  </introduction>
   <subsection xml:id="general-intro_learning-goals">
     <title>Learning Goals</title>
     <p>This chapter will:</p>
