@@ -2,10 +2,21 @@
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
     <titlepage>
         <author>
-            <personname>Oscar Levin, Editor</personname>
-            <department>Mathematical Sciences</department>
-            <institution>University of Northern Colorado</institution>
+            <personname>Brad Miller</personname>
+            <institution>Runestone Academy</institution>
         </author>
+        <author>
+            <personname>Paul Resnick</personname>
+            <institution>Runestone Academy</institution>
+        </author>
+    <credit>
+        <title>Computer Science edition editor</title>            
+            <author>
+                <personname>Oscar Levin, Editor</personname>
+                <department>Mathematical Sciences</department>
+                <institution>University of Northern Colorado</institution>
+            </author>
+    </credit>
     <credit>
         <title>Functions First edition authors</title>
         <author>

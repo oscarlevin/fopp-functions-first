@@ -15,5 +15,6 @@
         <platform host="runestone" />
         <!-- knowled checkpoints interfere with ActiveCode problems -->
         <knowl exercise-inline="no" example="no" listing="yes" />
+        <css colors="orange_navy" style="oscarlevin" toc="crc" banner="crc" navbar="crc" shell="crc"/>
     </html>
 </publication>
