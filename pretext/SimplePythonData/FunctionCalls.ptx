@@ -15,7 +15,7 @@
     <p>To confuse things even more, <c>print</c> is actually a function. All functions produce output values. Only the <c>print</c> function causes things to appear in the output window.</p>
   </note>
   <p>It is also possible for programmers to define new functions in their programs. You will learn how to do that later in the course. For now, you just need to learn how to invoke, or call, a function, and understand that the execution of the function returns a computed value.</p>
-  <program xml:id="ac2_4_1" interactive="activecode" language="python">
+  <program xml:id="ac2_4_1" interactive="activecode" language="python" label="ac2_4_1">
     <input>
       def square(x: int) -&gt; int:
         return x * x
@@ -27,7 +27,7 @@
   <p>Above, We've defined two functions. We will learn how to define functions later, but in this case, we include it just so that we can use the functions later. <c>square</c> takes a single input parameter, and returns that input multiplied by itself. <c>sub</c> takes two input parameters and returns the result of subtracting the second from the first. Obviously, these functions are not particularly useful, since we have the operators <c>*</c> and <c>-</c> available. But they illustrate how functions work. The visual below illustrates how the <c>square</c> function works.</p>
   <image source="SimplePythonData/Figures/square_function.gif" width="50%"
     alt="a visual of the square function. Four is provided as the input, the function object shakes, and then sixteen comes out from the bottom of the function object." />
-  <program xml:id="ac2_4_2" interactive="activecode" language="python" include="ac2_4_1">
+  <program xml:id="ac2_4_2" interactive="activecode" language="python" include="ac2_4_1" label="ac2_4_2">
     <input>
       print(square(3))
       square(5)
@@ -41,7 +41,7 @@
     <title>Function calls as part of complex expressions</title>
     <p>Anywhere in an expression that you can write a literal like a number, you can also write a function invocation that produces a number.</p>
     <p>For example:</p>
-    <program xml:id="ac2_4_3" interactive="activecode" language="python" include="ac2_4_1">
+    <program xml:id="ac2_4_3" interactive="activecode" language="python" include="ac2_4_1" label="ac2_4_3">
       <input>
         print(square(3) + 2)
         print(sub(square(3), square(1+1)))
@@ -54,7 +54,7 @@
     <title>Functions are objects; parentheses invoke functions</title>
     <p>Remember that earlier we mentioned that some kinds of Python objects don't have a nice printed representation? Functions are themselves just objects. If you tell Python to print the function object, rather than printing the results of invoking the function object, you'll get one of those not-so-nice printed representations.</p>
     <p>Just typing the name of the function refers to the function as an object. Typing the name of the function followed by parentheses <c>()</c> invokes the function.</p>
-    <program xml:id="ac2_4_4" interactive="activecode" language="python" include="ac2_4_1">
+    <program xml:id="ac2_4_4" interactive="activecode" language="python" include="ac2_4_1" label="ac2_4_4">
       <input>
         print(square)
         print(square(3))
