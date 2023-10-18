@@ -25,6 +25,8 @@
 
         <xi:include href="./TransformingSequences/toctree.ptx" />
 
+        <xi:include href="./Dictionaries/toctree.ptx" />
+
         <xi:include href="./NestedData/toctree.ptx" />
 
         <xi:include href="./Files/toctree.ptx" />
