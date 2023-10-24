@@ -1,10 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <section xml:id="dictionaries_dictionary-operations-index-0">
         <title>Dictionary operations</title>
         <p>The <c>del</c> statement removes a key-value pair from a dictionary. For example, the following dictionary contains the
             names of various fruits and the number of each fruit in stock. If someone buys all of the pears, we can remove the
             entry from the dictionary.</p>
 
-<program xml:id="clens10_2_1" label="clens10_2_1" interactive="codelens" language="python">
+<program label="clens10_2_1" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 
@@ -15,7 +17,7 @@ del inventory['pears']
             dictionary can be modified by referencing an association on the left hand side of the assignment statement. In the
             previous example, instead of deleting the entry for <c>pears</c>, we could have set the inventory to <c>0</c>.</p>
 
-<program xml:id="clens10_2_2" label="clens10_2_2" interactive="codelens" language="python">
+<program label="clens10_2_2" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 
@@ -30,7 +32,7 @@ inventory['pears'] = 0
             the dictionary has been modified. Note also that the <c>len</c> function also works on dictionaries. It returns the number
             of key-value pairs.</p>
 
-<program xml:id="clens10_2_3" label="clens10_2_3" interactive="codelens" language="python">
+<program label="clens10_2_3" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 inventory['bananas'] = inventory['bananas'] + 200

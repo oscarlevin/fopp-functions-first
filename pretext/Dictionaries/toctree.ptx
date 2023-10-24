@@ -11,6 +11,5 @@
         <xi:include href='./AccumulatingtheBestKey.ptx' />
         <xi:include href='./WPChoosingDictionaries.ptx' />
         <xi:include href='./Glossary.ptx' />
-        <xi:include href='./Exercises.ptx' />
         <xi:include href='./ChapterAssessment.ptx' />
     </chapter>
