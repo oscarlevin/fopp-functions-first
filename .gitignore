@@ -5,7 +5,7 @@ build_info
 .idea/*
 pavement.pyc
 
-pretext/GenFigs
+# pretext/GenFigs
 
 # for builds on Mac:
 **/.DS_Store
