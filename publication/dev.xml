@@ -9,7 +9,7 @@ work locally -->
 
     <!-- directories are relative to the main source PreTeXt file -->
     <source>
-        <directories external="Figures" generated="GenFigs" />
+        <directories external="Figures" generated="../generated" />
     </source>
 
     <html>
