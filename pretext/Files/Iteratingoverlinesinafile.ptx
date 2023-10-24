@@ -18,7 +18,7 @@
             the <c>split</c> method, we can break each line into a list containing all the fields of interest about the
             athlete. We can then take the values corresponding to name, team and event to
             construct a simple sentence.</p>
-  <program xml:id="ac11_4_1" interactive="activecode" language="python">
+  <program xml:id="ac12_4_1" interactive="activecode" language="python">
     <input>
 olympicsfile = open("olympics.txt", "r")
 
@@ -33,7 +33,7 @@ olympicsfile.close()
             iterate through the contents of a file one line at a time, without first reading them all into a list. Some students find this confusing initially, so we don't recommend doing it this way, until you get a
             little more comfortable with Python. But this idiom is preferred by Python programmers, so you should be prepared
             to read it. And when you start dealing with big files, you may notice the efficiency gains of using it.</p>
-  <program xml:id="ac11_4_2" interactive="activecode" language="python">
+  <program xml:id="ac12_4_2" interactive="activecode" language="python">
     <input>
 olympicsfile = open("olympics.txt", "r")
 
@@ -49,7 +49,7 @@ olympicsfile.close()
     <term>Check Your Understanding</term>
   </p> -->
 
-  <exercise label="ac11_4_3">
+  <exercise label="ac12_4_3">
       <p>
         <ol marker="1">
           <li>
@@ -57,7 +57,7 @@ olympicsfile.close()
           </li>
         </ol>
       </p>
-    <program xml:id="ac11_4_3_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_4_3_editor" interactive="activecode" language="python">
       <input>
 
 =====

@@ -659,13 +659,13 @@ value of a provided number. Or how <c>= input()</c> returns anything a user type
       </input>
     </program>
   </exercise>
-  <!-- <exercise label="ac11_4_10">
+  <!-- <exercise label="ac12_4_10">
     <statement>
       <p><term>14.</term> Write a function called <c>decision</c> that takes a string as input, and
         then checks the number of characters. If it has over 17 characters, return <q>This is a long
         string</q>, if it is shorter or has 17 characters, return <q>This is a short string</q>.</p>
     </statement>
-    <program xml:id="ac11_4_10_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_4_10_editor" interactive="activecode" language="python">
       <input>
 
         =====

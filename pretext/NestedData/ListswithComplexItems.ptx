@@ -21,7 +21,7 @@ for L in nested1:
                 with square brackets. It has length 3, which prints out on line 3. Line 4 adds a new item to <c>nested1</c>. It is a list with
                 one element, &#x2018;i' (it a list with one element, it's not just the string &#x2018;i').</p>
     <p>Codelens gives a you a reference diagram, a visual display of the contents of nested1.</p>
-    <program xml:id="clens10_1_1" interactive="codelens" language="python">
+    <program xml:id="clens11_1_1" interactive="codelens" language="python">
       <input>
 nested1 = [['a', 'b', 'c'],['d', 'e'],['f', 'g', 'h']]
 print(nested1[0])
@@ -63,7 +63,7 @@ print(nested1[1][0])
                 start by writing code like lines 2-4, then, once you're sure it's working, replace it with something like line 7.</p>
     <p>You can change values in such lists in the usual ways. You can even use complex expressions to change values. Consider
                 the following</p>
-    <program xml:id="clens10_1_2" interactive="codelens" language="python">
+    <program xml:id="clens11_1_2" interactive="codelens" language="python">
       <input>
 nested1 = [['a', 'b', 'c'],['d', 'e'],['f', 'g', 'h'], ['i']]
 nested1[1] = [1, 2, 3]
@@ -74,7 +74,7 @@ nested1[1][0] = 100
                 have to be the same type, but you will drive yourself crazy if you have lists of objects of varying types. Save yourself
                 some headaches and don't do that. Here's a list of dictionaries and some operations on them. Take a look at its visual
                 representation in codelens.</p>
-    <program xml:id="clens10_1_3" interactive="codelens" language="python">
+    <program xml:id="clens11_1_3" interactive="codelens" language="python">
       <input>
 nested2 = [{'a': 1, 'b': 3}, {'a': 5, 'c': 90, 5: 50}, {'b': 3, 'c': "yes"}]
     </input>
@@ -126,7 +126,7 @@ print(L[0](3))
                 for how python treats any other list. Because L[0] picks out the function square, L[0](3) calls the function square,
                 passing it the parameter 3.</p>
     <p>Step through it in Codelens if that's not all clear to you yet.</p>
-    <program xml:id="clens10_1_4" interactive="codelens" language="python">
+    <program xml:id="clens11_1_4" interactive="codelens" language="python">
       <input>
 def square(x):
     return x*x

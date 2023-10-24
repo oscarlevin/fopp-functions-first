@@ -30,7 +30,7 @@ inventory['pears'] = 0
             the dictionary has been modified. Note also that the <c>len</c> function also works on dictionaries. It returns the number
             of key-value pairs.</p>
 
-<program xml:id="clens10_2_3" interactive="codelens" language="python">
+<program xml:id="clens10_2_3" label="clens10_2_3" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 inventory['bananas'] = inventory['bananas'] + 200

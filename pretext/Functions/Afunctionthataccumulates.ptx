@@ -8,7 +8,7 @@
             same idea and just wrap it in a function definition. We'll call it <c>mylen</c> to distinguish it from the real <c>len</c>
             which already exists. We actually <em>could</em> call it len, but that wouldn't be a very good idea, because it would replace
             the original len function, and our implementation may not be a very good one.</p>
-  <program xml:id="ac11_5_1" interactive="activecode" language="python">
+  <program xml:id="ac12_5_1" interactive="activecode" language="python">
     <input>
 def mylen(seq):
     c = 0 # initialize count variable to 0
@@ -49,11 +49,11 @@ print(mylen([1, 2, 7]))
   <!-- <p>
     <term>Check Your Understanding</term>
   </p> -->
-  <exercise label="ac11_5_2">
+  <exercise label="ac12_5_2">
     <statement>
       <p><term>1.</term> Write a function named <c>total</c> that takes a list of integers as input, and returns the total value of all those integers added together.</p>
     </statement>
-    <program xml:id="ac11_5_2_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_5_2_editor" interactive="activecode" language="python">
       <input>
 
 =====
@@ -72,11 +72,11 @@ myTests().main()
         </input>
     </program>
   </exercise>
-  <exercise label="ac11_5_3">
+  <exercise label="ac12_5_3">
     <statement>
       <p><term>2.</term> Write a function called <c>count</c> that takes a list of numbers as input and returns a count of the number of elements in the list.</p>
     </statement>
-    <program xml:id="ac11_5_3_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_5_3_editor" interactive="activecode" language="python">
       <input>
 
 =====

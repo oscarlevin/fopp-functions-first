@@ -6,7 +6,7 @@
       <p>Write a function called <c>int_return</c> that takes an integer as input and returns the
         same integer.</p>
     </statement>
-    <program xml:id="ac11_15_1_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_15_1_editor" interactive="activecode" language="python">
       <input>
         =====
 
@@ -87,13 +87,13 @@
       </input>
     </program>
   </exercise>
-  <!-- <exercise label="ac11_15_5">
+  <!-- <exercise label="ac12_15_5">
     <statement>
       <p>Write a function, <c>length</c>, that takes in a list as the input. If the length of the
         list is greater than or equal to 5, return <q>Longer than 5</q>. If the length is less than
         5, return <q>Less than 5</q>.</p>
     </statement>
-    <program xml:id="ac11_15_5_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_15_5_editor" interactive="activecode" language="python">
       <input>
 
         =====

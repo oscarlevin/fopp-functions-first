@@ -15,7 +15,7 @@
             function/method.) If the method takes additional parameters (some do, some don't), additional expressions that evaluate
             to values are included inside the parentheses.</p>
   <p>For example, let's look at an invocation of the split method.</p>
-  <program xml:id="ac11_6_1" interactive="activecode" language="python">
+  <program xml:id="ac12_6_1" interactive="activecode" language="python">
     <input>
 y = "This is a sentence"
 z = y.split()
@@ -36,7 +36,7 @@ for w in z:
   <p>Note that the thing to the left of the period can be any expression, not just a variable name. It can even be a return
             value from some other function call or method invocation. For example, if we want to remove the s and t characters from
             a string, we can do it all on one line as show below.</p>
-  <program xml:id="ac11_6_2" interactive="activecode" language="python">
+  <program xml:id="ac12_6_2" interactive="activecode" language="python">
     <input>
 print("This is a sentence".replace("s", "").replace("t", ""))
         </input>

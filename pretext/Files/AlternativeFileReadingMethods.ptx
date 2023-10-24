@@ -91,7 +91,7 @@
   <!-- <p>
     <term>Check Your Understanding</term>
   </p> -->
-  <exercise label="ac11_3_1">
+  <exercise label="ac12_3_1">
       <p>
         <ol marker="1">
           <li>
@@ -99,7 +99,7 @@
           </li>
         </ol>
       </p>
-    <program xml:id="ac11_3_1_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_3_1_editor" interactive="activecode" language="python">
       <input>
 
 =====
@@ -116,7 +116,7 @@ myTests().main()
     </program>
   </exercise>
 
-  <exercise label="ac11_3_2">
+  <exercise label="ac12_3_2">
       <p>
         <ol marker="1">
           <li>
@@ -124,7 +124,7 @@ myTests().main()
           </li>
         </ol>
       </p>
-    <program xml:id="ac11_3_2_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_3_2_editor" interactive="activecode" language="python">
       <input>
 
 =====
@@ -141,7 +141,7 @@ myTests().main()
     </program>
   </exercise>
   
-  <!-- <exercise label="ac11_3_3">
+  <!-- <exercise label="ac12_3_3">
       <p>
         <ol marker="1">
           <li>
@@ -149,7 +149,7 @@ myTests().main()
           </li>
         </ol>
       </p>
-    <program xml:id="ac11_3_3_editor" interactive="activecode" language="python">
+    <program xml:id="ac12_3_3_editor" interactive="activecode" language="python">
       <input>
 
 =====

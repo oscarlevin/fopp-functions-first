@@ -17,7 +17,7 @@
     ...</pre>
   <p>When the program exits the with block, the context manager handles the common stuff that normally happens at the end, in our case closing a file. A simple example will clear up all of this abstract discussion of contexts. See the contents of a file called <q>mydata.txt</q> below.</p>
 
-  <program xml:id="ac11_6_1" interactive="activecode" language="python">
+  <program xml:id="ac12_6_1" interactive="activecode" language="python">
     <input>
 with open('mydata.txt', 'r') as md:
     for line in md:
@@ -27,7 +27,7 @@ with open('mydata.txt', 'r') as md:
   </program>
   <p>The first line of the <title_reference>with</title_reference> statement opens the file and assigns it to the variable <c>md</c>. Then we can iterate over the file in any of the usual ways. When we are done we simply stop indenting and let Python take care of closing the file and cleaning up.</p>
   <p>This is equivalent to code that specifically closes the file at the end, but neatly marks the set of code that can make use of the open file as an indented block, and ensures that the programmer won't forget to include the <c>.close()</c> invocation.</p>
-  <program xml:id="ac11_6_2" interactive="activecode" language="python">
+  <program xml:id="ac12_6_2" interactive="activecode" language="python">
     <input>
 md = open('mydata.txt', 'r')
 for line in md:
