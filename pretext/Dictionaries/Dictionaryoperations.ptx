@@ -4,7 +4,7 @@
             names of various fruits and the number of each fruit in stock. If someone buys all of the pears, we can remove the
             entry from the dictionary.</p>
 
-<program xml:id="clens10_2_1" interactive="codelens" language="python">
+<program xml:id="clens10_2_1" label="clens10_2_1" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 
@@ -15,7 +15,7 @@ del inventory['pears']
             dictionary can be modified by referencing an association on the left hand side of the assignment statement. In the
             previous example, instead of deleting the entry for <c>pears</c>, we could have set the inventory to <c>0</c>.</p>
 
-<program xml:id="clens10_2_2" interactive="codelens" language="python">
+<program xml:id="clens10_2_2" label="clens10_2_2" interactive="codelens" language="python">
     <input>
 inventory = {'apples': 430, 'bananas': 312, 'oranges': 525, 'pears': 217}
 
@@ -96,7 +96,7 @@ print(mydict["mouse"])
 
 <exercise label="ac10_2_1">
     <statement>
-        <p><term>2.</term> Update the value for <q>Phelps</q> in the dictionary <c>swimmers</c> to include his medals from the Rio Olympics by adding 5 to the current value (Phelps will now have 28 total medals). Do not rewrite the dictionary.</p>
+        <p> Update the value for <q>Phelps</q> in the dictionary <c>swimmers</c> to include his medals from the Rio Olympics by adding 5 to the current value (Phelps will now have 28 total medals). Do not rewrite the dictionary.</p>
 
     </statement>
     <program xml:id="ac10_2_1_editor" interactive="activecode" language="python">
@@ -104,19 +104,18 @@ print(mydict["mouse"])
         <input>
 swimmers = {'Manuel':4, 'Lochte':12, 'Adrian':7, 'Ledecky':5, 'Dirado':4, 'Phelps':23}
 
-=====
 
-from unittest.gui import TestCaseGui
 
-class myTests(TestCaseGui):
-
-   def testThree(self):
-      self.assertEqual(sorted(swimmers.items()), sorted([('Adrian', 7), ('Dirado', 4), ('Ledecky', 5), ('Lochte', 12), ('Phelps', 28), ('Manuel',4)]), "Testing that swimmers is assigned to correct values.")
-
-myTests().main()
         </input>
 <tests>
+    from unittest.gui import TestCaseGui
 
+    class myTests(TestCaseGui):
+    
+       def testThree(self):
+          self.assertEqual(sorted(swimmers.items()), sorted([('Adrian', 7), ('Dirado', 4), ('Ledecky', 5), ('Lochte', 12), ('Phelps', 28), ('Manuel',4)]), "Testing that swimmers is assigned to correct values.")
+    
+    myTests().main()
 
 </tests>
 
