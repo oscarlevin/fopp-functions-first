@@ -174,7 +174,10 @@
             </p>
         </note>
     </subsection>
-    <exercises xml:id="exercises-git-basics">
+    <subsection xml:id="exercises-git-basics">
+        <title>Check your understanding</title>
+        
+        
         <exercise label="git-basics-order">
             <statement>
                 <p>
@@ -210,5 +213,5 @@
                 </block>
             </blocks>
         </exercise>
-    </exercises>
+    </subsection>
 </section>

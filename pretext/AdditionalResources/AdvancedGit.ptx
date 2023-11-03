@@ -125,7 +125,8 @@
             </input>
         </console>
     </subsection>
-    <exercises xml:id="exercises-adv-git">
+    <subsection xml:id="exercises-adv-git">
+            <title>Check your understanding</title>
         <exercise label="adv-git-mc">
             <statement>
                 <p>
@@ -170,5 +171,5 @@
                 </choice>
             </choices>
         </exercise>
-    </exercises>
+    </subsection>
 </section>
