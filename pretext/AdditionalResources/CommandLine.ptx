@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <section xml:id="additional_resources-command_line">
     <title>The Command Line</title>
-    <p>The <term>command line</term>, or CLI, is a powerful tool that provides direct access to the
+    <p>The <term>command line interface</term>, or CLI, is a powerful tool that provides direct access to the
         core functionalities of your operating system. While graphical interfaces are widely used,
         understanding the command line and its basic usage is essential for quickly navigating file
         systems, managing source control, and running programs.</p>
@@ -18,6 +18,10 @@
             followed by the current directory. The prompt will be different depending on the
             operating system. For Windows, the prompt will be <literal>$</literal>. For Linux and
             Mac, the prompt will be <literal>%</literal>.</p>
+
+        <p>
+            There are many other command line <term>terminals</term> you can use. For example, on Mac, you can use the <term>Terminal</term> application. On Linux, you can use <term>gnome-terminal</term> or <term>konsole</term>. On Windows, you can use <term>cmd</term> or <term>PowerShell</term>. These terminals are all different, but they all provide the same basic functionality.  Some of the commands available on Mac and Linux, that are replicated with Git Bash, are not available on Windows, which is why we suggest using Git Bash.
+        </p>
     </subsection>
     <subsection xml:id="command_line-commands">
         <title>Commands</title>
@@ -25,7 +29,7 @@
             Commands are entered into the command line, and then executed by pressing the <keycap>
             Enter</keycap> key. Commands can be entered one at a time, or multiple commands can be
             entered on the same line by separating them with a semicolon. </p>
-        <subsection xml:id="command_line-commands-navigation">
+        <paragraphs xml:id="command_line-commands-navigation">
             <title>Navigation Commands</title>
             <p> Arguably the most important command is <c>cd</c>, which is used to
                 change directories. Directories are the folders that contain files. The current
@@ -43,8 +47,8 @@
                 instead will be followed by a forward slash. For example, if the current directory
                 contains the folder <em>src</em>, then <c>ls</c> will list <em>
                 src/</em>. </p>
-        </subsection>
-        <subsection xml:id="command_line-commands-files_directories">
+                </paragraphs>
+        <paragraphs xml:id="command_line-commands-files_directories">
             <title>File and Directory Commands</title>
             <p> To create a new directory, use the <c>mkdir</c> command. For example, to
                 create a new directory named <em>src</em>, enter <c>mkdir src</c>
@@ -55,7 +59,49 @@
             <p> To remove a file, use the <c>rm</c> command. For example, to remove the
                 file <em>main.py</em>, enter <c>rm main.py</c>. Be warned,
                 this command will permanently delete the file. </p>
-        </subsection>
+        </paragraphs>
+        <exercise label="cli-match-01">
+            <statement>
+                <p>
+                    Match each command with what it does.
+                </p>
+            </statement>
+            <matches>
+                <match>
+                    <premise>
+                        <c>cd</c>
+                    </premise>
+                    <response>
+                        Change directories
+                    </response>
+                </match>
+                <match>
+                    <premise>
+                        <c>ls</c>
+                    </premise>
+                    <response>
+                        show contents of current directory
+                    </response>
+                </match>
+                <match>
+                    <premise>
+                        <c>rm</c>
+                    </premise>
+                    <response>
+                        Remove a file
+                    </response>
+                </match>
+                <match>
+                    <premise>
+                        <c>del</c>
+                    </premise>
+                    <response>
+                        Not a command discussed
+                    </response>
+                </match>
+            </matches>
+        </exercise>
+
         <exercise label="pp11_5_1" indentation="show" language="python">
             <statement>
                 <p>Using the following file structure, move into the <c>src</c> directory, remove <c>main.py</c>, add the file <c>not_main.py</c>, and return to the <c>home</c> directory:</p>

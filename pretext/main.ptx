@@ -29,13 +29,13 @@
 
         <xi:include href="./NestedData/toctree.ptx" />
 
+        <xi:include href="./AdditionalResources/toctree.ptx" />
+
         <xi:include href="./Files/toctree.ptx" />
 
         <xi:include href="./Exceptions/toctree.ptx" />
 
         <xi:include href="./Classes/toctree.ptx" />
-
-        <xi:include href="./AdditionalResources/toctree.ptx" />
 
         <xi:include href="./FrontBackMatter/back_toc.ptx" />
 
